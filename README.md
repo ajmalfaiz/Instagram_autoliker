@@ -9,7 +9,9 @@ repository folder
 3. Edit Autoliker.py at the top
 
 username = 'Enter your username here'
+
 password = "Enter your password here"
+
 4. Run and that's it.
 
 
