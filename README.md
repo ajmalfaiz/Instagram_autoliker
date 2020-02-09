@@ -17,6 +17,7 @@ password = "Enter your password here"
 
 WHAT THIS APP DOES
 ....................................................................
+
 This app Navigate with web elements in chrome driver with selenium.
 1. Login
 2. Search hashtags
