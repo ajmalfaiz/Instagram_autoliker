@@ -4,6 +4,9 @@ import time
 import random
 import sys
 
+username = 'Enter your username here'
+password = "Enter your password here"
+
 def print_same_line(text):
     sys.stdout.write('\r')
     sys.stdout.flush()
@@ -76,8 +79,7 @@ class InstagramBot:
         
 if __name__ == "__main__":
 
-    username = 'Enter your username here'
-    password = "Enter your password here"
+
     ig = InstagramBot(username, password)
     ig.login()
 
